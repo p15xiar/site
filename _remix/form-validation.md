@@ -17,3 +17,8 @@ tags:
 </iframe>
 
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="Form Validation" src="https://codepen.io/p15xiar/pen/XWKdQav?editors=1100,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/p15xiar/pen/XWKdQav?editors=1100'>Form Validation</a> by mibook
+  (<a href='https://codepen.io/mibook'>@mibook</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
