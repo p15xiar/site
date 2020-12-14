@@ -2,7 +2,7 @@
 layout: slides
 title: Αρχέτυπα
 caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
-image_url: /images/xerox-star-desktop.png
+image_url: /images/Google-Pixelbuds.jpg
 slides:
   - ibm2471
   - xerox-star-desktop
