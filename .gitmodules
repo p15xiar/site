@@ -1,11 +1,11 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/p15xiar/images.git
-    branch = master
+    branch = 2015048
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p15xiar/_gallery.git
-	branch = master
+	branch = 2015048
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
@@ -22,3 +22,7 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "extras"]
+	path = extras
+	url = git@github.com:p15xiar/extras.git
+	branch = 2015048
