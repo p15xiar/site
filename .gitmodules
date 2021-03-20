@@ -18,3 +18,11 @@
 	path = extras
 	url =https://github.com/p15xiar/extras.git
 	branch = 2015048
+[submodule "images"]
+	path = images
+	url = https://github.com/p15xiar/images.git
+	branch = 2015048
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/p15xiar/_gallery.git
+	branch = 2015048
